@@ -1,0 +1,5 @@
+{
+  "name": "Student Grade Manager",
+  "description": "A comprehensive student grade management system with MS SQL backend and React frontend.",
+  "requestFramePermissions": []
+}
